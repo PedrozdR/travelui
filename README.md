@@ -1,6 +1,8 @@
-# travelui
+# Travelui
 
-A new Flutter project.
+A new Flutter project. Project made for studies only. This layout was developed by a Dribbble user. Follow the prototype link below
+
+https://dribbble.com/shots/6510521-Travel-App-for-booking-unique-experience
 
 ## Getting Started
 
